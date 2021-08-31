@@ -1,6 +1,6 @@
 # profile-card-component-main
 
-![image](https://github.com/molszewski34/stats-preview-card-component-main/blob/main/stats-preview-card-component-main.png)
+![image](https://github.com/molszewski34/profile-card-component-main/blob/main/profile-card-component-main.png)
 
 profile-card-component-main is a simple site build with only html and css. This project is based on FrontEnd Mentor challenge with link [here](https://www.frontendmentor.io/challenges/profile-card-component-cfArpWshJ)
 
